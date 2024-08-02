@@ -1,5 +1,14 @@
 # Weather Forecast Application
 
+
+project directory like this
+weather_app/
+│
+├── weather_forecast_gui_with_location.py
+├── README.md
+└── requirements.txt
+
+
 ## Overview
 This is a simple weather forecast application that uses the OpenWeatherMap API to provide a 5-day weather forecast based on a location name (e.g., city). The application has a graphical user interface built using Tkinter.
 
