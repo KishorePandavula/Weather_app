@@ -8,7 +8,7 @@ This is a simple weather forecast application that uses the OpenWeatherMap API t
 - Displays temperature, humidity, pressure, wind speed, and weather conditions.
 
 ## Requirements
-- Python 3.x
+- Python 3.11
 - `requests` library
 
 ## Installation
